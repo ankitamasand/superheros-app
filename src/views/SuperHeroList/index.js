@@ -1,0 +1,1 @@
+export { default as SuperHeroList } from './SuperHeroList';
